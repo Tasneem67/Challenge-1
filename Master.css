@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+*{
+    background-color: hsl(30, 38%, 92%);
+}
+.image-container{
+    background-color: white;
+    width: 650px;
+    height: 400px;
+    border-radius: 10px ;
+}
+.image-1{
+    height: 400px;
+    width: auto;
+    border-radius: 10px 0 0 10px;
+}
+p{
+    background-color: white;
+    font-style: Montserrat;
+    font-size: 20px;
+    position: relative;
+    bottom:400px;
+    left:300px;
+    width: 50px;
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 5px;
+}
+h1{
+    margin: 2px;
+    font-size: xx-large;
+    position: relative;
+    bottom:400px;
+    left:300px;
+    background-color: white;
+    width: 200px;
+    font-weight: 900;
+    }
+    .para{
+        margin-bottom: 0px;
+        width: 350px;
+        font-size: 15px;
+        color: black;
+        letter-spacing: 3px;
+    }
+    .price{
+        margin-top: 7px;
+        position:relative;
+        color:green;
+        background-color: white;
+    }
+    .before{
+        text-decoration: line-through;
+        letter-spacing: 2px;
+        position: relative;
+        bottom:435px;
+        margin-left: 120px;
+        letter-spacing: 0px;
+        font-size: small;
+    }
+    
+   .container-cart{
+    position:relative;
+    background-color: green;
+    width:280px;
+    height:50px;
+    border-radius: 7px 7px ;
+    bottom:437px;
+    left:300px;
+}
+.text-on-go-cart{
+    background-color: green;
+    margin-left: 75px;
+    position: relative;
+    top: 10px;
+    color: white;
+    font-size: x-large;
+}
+.image-2{
+    background-color: green;
+    width: auto;
+    height: 20px;
+}
+   
